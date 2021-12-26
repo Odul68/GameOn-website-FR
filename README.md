@@ -7,7 +7,7 @@ Forker le repo et finir les 5 tâches suivantes :
 * Ajout du message de confirmation lors de la soumission réussie du formulaire
 * Tests manuels des fonctionnalités
 
-## Heading 2 ##
+## ---------------------------------------------------------------------------------------------------------------- ##
 
 Vous ne devez utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap ou autre librairie.
 
