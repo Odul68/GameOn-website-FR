@@ -3,7 +3,7 @@ Forker ce repo et finir les 5 tâches suivantes :
 
 * Ajouter la fonction pour fermer la modale
 * Implémenter les entrées du formulaire
-* Ajout des messages d'erreurs ainsi que la validation en cliquant sur "Submit"
+* Ajout des messages d'erreurs ainsi que la validation en cliquant sur "Submit" :email:
 * Ajout du message de confirmation lors de la soumission réussie du formulaire
 * Tests manuels des fonctionnalités
 
