@@ -1,7 +1,7 @@
 # Projet GameOn
 Forker ce repo et finir les 5 tâches suivantes : 
 
-* Ajouter la finction pour fermer la modale
+* Ajouter la fonction pour fermer la modale
 * Implémenter les entrées du formulaire
 * Ajout des messages d'erreurs ainsi que la validation en cliquant sur "Submit"
 * Ajout du message de confirmation lors de la soumission réussie du formulaire
