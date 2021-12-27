@@ -5,9 +5,11 @@ Forker le repo et finir les 5 tâches suivantes :
 * Implémenter les entrées du formulaire :clipboard:
 * Ajouter les messages d'erreurs ainsi que la validation en cliquant sur "Submit" :warning:
 * Ajouter le message de confirmation lors de la soumission réussie du formulaire :incoming_envelope:
-* Tests manuels des fonctionnalités :thumbsup: \
+* Tests manuels des fonctionnalités :thumbsup: 
 
-  :globe_with_meridians:  https://odul68.github.io/LudovicDeckert_4_19112021/
+
+
+  ## :globe_with_meridians:  https://odul68.github.io/LudovicDeckert_4_19112021/ ##
 
 
 ## ##
