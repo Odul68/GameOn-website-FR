@@ -12,7 +12,6 @@ Forker le repo et finir les 5 tâches suivantes :
   ## :globe_with_meridians:  https://odul68.github.io/LudovicDeckert_4_19112021/ ##
 
 
-## ##
 
 N'utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap ou autre librairie.
 
