@@ -18,4 +18,4 @@ N'utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap
 
 
 
-![alt text](https://github.com/Odul68/GameOn-website-FR/blob/master/16395717662959_HomePage.png)
+![alt text](https://github.com/Odul68/LudovicDeckert_4_19112021/blob/master/16395717662959_HomePage.png)
