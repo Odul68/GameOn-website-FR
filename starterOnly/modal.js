@@ -10,10 +10,8 @@ function editNav() {
 // DOM Elements
 const modalbg = document.querySelector(".bground");
 const modalBtn = document.querySelectorAll(".modal-btn");
-/**
-const formData = document.querySelectorAll(".formData"); */
 const modalCross = document.getElementsByClassName("close");
-// Form Elements
+// Form 
 const form = document.getElementById("form");
 const firstName = document.getElementById("first");
 const lastName = document.getElementById("last");
@@ -27,11 +25,8 @@ const location4 = document.getElementById("location4");
 const location5 = document.getElementById("location5");
 const location6 = document.getElementById("location6");
 const validation = document.getElementById("checkbox1");
-
-/**const dateFormat = /^\d{2}[./-]\d{2}[./-]\d{4}$/;*/
 const numbers = /^[0-9]+$/;
-
-// Error Elements
+// Errors
 const firstNameFormData = document.getElementById("firstName");
 const lastNameFormData = document.getElementById("lastName");
 const eMailFormData = document.getElementById("eMail");
@@ -64,24 +59,13 @@ function closeModal() {
 // Close modal on X spot - event
 modalCross[0].addEventListener("click", closeModal);
 
-
-// confirmation
-
-/**
-const formSubmit = document.getElementsByClassName("btn-submit");*/
-
-
-
-
-// Onclick validation and PreventDefault 
-
+// Onclick form validation and PreventDefault
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   validate();
 });
 
-// alert error
-
+// alert error messages and function
 function validate() {
   let firstChecked;
   let lastChecked;
@@ -90,11 +74,6 @@ function validate() {
   let tournamentChecked;
   let radioChecked;
   let conditionsChecked;
-
-
-  console.log(birthDate.value);
-
-  
 
   if (
     !firstName.value.match("^[a-z A-Z]*$", "g") ||
@@ -205,8 +184,7 @@ function validate() {
     conditionsChecked = true;
   }
 
-  // Confirmation when submit succeeds 
-
+  // Confirmation message when submit succeeds 
   if (
     firstChecked === true &&
     lastChecked === true &&
