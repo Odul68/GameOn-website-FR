@@ -65,7 +65,7 @@ form.addEventListener("submit", (e) => {
   validate();
 });
 
-// alert error messages and function
+// Validate function and error messages if needed
 function validate() {
   let firstChecked;
   let lastChecked;
