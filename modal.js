@@ -11,7 +11,7 @@ function editNav() {
 const modalbg = document.querySelector(".bground");
 const modalBtn = document.querySelectorAll(".modal-btn");
 const modalCross = document.getElementsByClassName("close");
-// Form 
+// Form
 const form = document.getElementById("form");
 const firstName = document.getElementById("first");
 const lastName = document.getElementById("last");
@@ -184,7 +184,7 @@ function validate() {
     conditionsChecked = true;
   }
 
-  // Confirmation message when submit succeeds 
+  // Confirmation message when submit succeeds
   if (
     firstChecked === true &&
     lastChecked === true &&
@@ -200,5 +200,3 @@ function validate() {
     confirmation.style.display = "flex";
   }
 }
-
-
